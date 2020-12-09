@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-nodejs-restapi",
+  "version": "1.0.0",
+  "description": "Sample template of pure Vanilla Node.js REST-API, except CRUD operations are performed on json file (using file modules).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Akshay Dedhia",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.1"
+  }
+}
