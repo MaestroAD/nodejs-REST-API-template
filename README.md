@@ -4,7 +4,7 @@
 ***Note:*** I mainly used a JSON file with the filesystem (FS) module to demonstrate CRUD operations.
 
 By putting myself thru this grueling process, I understand and appreciate the Express.js framework even more, allowing for a faster development lifecycle when trying to get a project to production.
-Most importantly, Express.js will make the most sense to utilize especially when working with a production level product.
+Most importantly, I was able to learn the main differences between the framework and vanilla Node.js REST-API development.
 
 ```
 Router file --> server.js
